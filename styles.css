@@ -1,0 +1,17 @@
+body {
+    Background: black;
+}
+h1 {
+    color: red;
+    background: yellow;
+    text-align: center;
+    font-size: 50px;
+}
+.contents {
+    color: white;
+}
+table {
+color: white;
+border:1;
+border-color: tomato;
+}
